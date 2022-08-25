@@ -12,14 +12,14 @@
 
 # theme        	         : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Johannes Stein"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Johannes stein"
+name                     : "Johannes Stein"
 description              : "Personal homepage."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : @_SteinJ
 facebook:
   username               :
   app_id                 :
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Johannes Stein"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Test **amazing**."
-  location         : "Somewhere"
+  location         : "Boston, MA, USA"
   email            :
   links:
     - label: "Email"
@@ -134,13 +134,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/_SteinJ"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/steinjohannes"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
